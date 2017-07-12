@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Airlines!</title>
+    <link href="Content/bootstrap/bootstrap.css" rel="stylesheet" />
+    <link href="Content/site.css" rel="stylesheet" />
+</head>
+<body ng-app="airlineApp">
+    <div class="container" ng-controller="flightsController" ng-cloak>
+        <h1>Airlines!</h1>
+        <div>
+            <div class="alert alert-success" ng-show="status">
+                {{status}}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6" ng-repeat="flight in flights">
+                <div class="flightCard">
+                    <div class="approvedFlight">
+                        <h3>{{flight.airline}}</h3>
+                        <div class="pull-right">
+                            <button ng-class="{ btn:true, 'btn-success':flight.approved }" ng-click="selectFlight(flight)">
+                                Select
+                                <span class="glyphicon glyphicon-ok"></span>
+                            </button>
+                        </div>
+                    </div>
+                    <div>
+                        <span>Price: {{flight.price | currency}}</span>
+                        <span>Duration: {{flight.totalDuration}}</span>
+                    </div>
+                    <hr />
+                    <div>
+                        <span>Start Time: {{flight.startTime | date:'hh:mm'}}</span>
+                        <span>End Time: {{flight.endTime | date:'hh:mm'}}</span>
+                        <ul class="breadcrumb">
+                            <li ng-repeat="city in flight.cities">
+                                {{city}}
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="Scripts/angular.js"></script>
+    <script src="airlinesApp/airlineApp.js"></script>
+    <script src="airlinesApp/controllers/flightsController.js"></script>
+    <script src="airlinesApp/services/flightService.js"></script>
+</body>
+</html>

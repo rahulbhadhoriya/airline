@@ -1,0 +1,13 @@
+﻿
+.flightCard {
+    /*background-color: #f3f0f0;*/
+    border-color: #000;
+    -ms-border-radius: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+/*.approvedFlight {
+     background-color: #5cb85c;
+    padding: 2px;
+}*/

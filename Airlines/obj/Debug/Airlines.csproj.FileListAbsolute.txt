@@ -1,0 +1,36 @@
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\Airlines.dll.config
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\Airlines.dll
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\Airlines.pdb
+C:\dev\pluralsight\airlines\Airlines\Airlines\obj\Debug\Airlines.csprojResolveAssemblyReference.cache
+C:\dev\pluralsight\airlines\Airlines\Airlines\obj\Debug\Airlines.dll
+C:\dev\pluralsight\airlines\Airlines\Airlines\obj\Debug\Airlines.pdb
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\Newtonsoft.Json.dll
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\System.Net.Http.Formatting.dll
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\System.Web.Http.dll
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\System.Web.Http.WebHost.dll
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\Newtonsoft.Json.xml
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\System.Net.Http.Formatting.xml
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\System.Web.Http.xml
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\System.Web.Http.WebHost.xml
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\EntityFramework.dll
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\EntityFramework.SqlServer.dll
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\EntityFramework.xml
+C:\dev\pluralsight\airlines\Airlines\Airlines\bin\EntityFramework.SqlServer.xml
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\Airlines.dll.config
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\Airlines.dll
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\Airlines.pdb
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\EntityFramework.dll
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\EntityFramework.SqlServer.dll
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\Newtonsoft.Json.dll
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\System.Net.Http.Formatting.dll
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\System.Web.Http.dll
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\System.Web.Http.WebHost.dll
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\EntityFramework.xml
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\EntityFramework.SqlServer.xml
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\Newtonsoft.Json.xml
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\System.Net.Http.Formatting.xml
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\System.Web.Http.xml
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\bin\System.Web.Http.WebHost.xml
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\obj\Debug\Airlines.csprojResolveAssemblyReference.cache
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\obj\Debug\Airlines.dll
+K:\0pluralsight\ANGULAR JS\Play by Play AngularJS Application Design with Scott Allen and Dan Wahlin\play-by-play-wahlin-allen\materials\Airlines\obj\Debug\Airlines.pdb
